@@ -1,0 +1,9 @@
+﻿@model IEnumerable<CareerCloud.Pocos.ApplicantSkillPoco>
+
+@{
+    ViewData["Title"] = "Skills";
+}
+
+<div>
+    <partial name="~/Views/_ApplicantSkill.cshtml" model="@Model.ToList()"/>
+</div>

@@ -14,8 +14,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\CareerCloud\CareerCloud.ADODataAccessLayer\CareerCloud.ADODataAccessLayer.csproj" />
-    <ProjectReference Include="..\CareerCloud\CareerCloud.DataAccessLayer\CareerCloud.DataAccessLayer.csproj" />
     <ProjectReference Include="..\CareerCloud\CareerCloud.EntityFrameworkDataAccess\CareerCloud.EntityFrameworkDataAccess.csproj" />
     <ProjectReference Include="..\CareerCloud\CareerCloud.Pocos\CareerCloud.Pocos.csproj" />
   </ItemGroup>

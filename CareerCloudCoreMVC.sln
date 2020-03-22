@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29806.167
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CareerCloud.MVC", "CoreCareerCloud\CareerCloud.MVC.csproj", "{375CE51A-5BF2-4F10-A661-4F4CFD90CEAC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CareerCloudMVC", "CoreCareerCloud\CareerCloudMVC.csproj", "{375CE51A-5BF2-4F10-A661-4F4CFD90CEAC}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CareerCloud.Pocos", "CareerCloud\CareerCloud.Pocos\CareerCloud.Pocos.csproj", "{422D8D34-BF82-4BF9-B19C-B4C9505252F2}"
 EndProject
